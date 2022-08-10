@@ -1,0 +1,16 @@
+> x = 1
+> y = 15
+> print(x * y + 14)
+29
+> print(x = 'hello')
+hello
+> print(1, 2, 3)
+123
+> x={}
+> x['lalala'] = 1
+> print(x['lalala'])
+1
+> kolyan = noy
+> print(kolyan)
+yeah sure sure noy yeah again noy
+> exit
